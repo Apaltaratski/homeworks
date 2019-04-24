@@ -50,57 +50,30 @@
         <div class="card-body">
           Create layout that will contain:<br>
           - top horizontal navigation panel<br>
-          <textarea class="hw-textarea"
-            rows="1"
-            cols="50"
-            disabled>
-            background-color: #074dff
-          </textarea> <br>
+            background-color: #074dff<br>
           - left vertical navigation panel<br>
-          <textarea class="hw-textarea"
-            rows="1"
-            cols="50"
-            disabled>
-            background-color: #83b925;
-          </textarea> <br>
+            background-color: #83b925; <br>
           - filter panel<br>
-          <textarea class="hw-textarea"
-            rows="1"
-            cols="50"
-            disabled>
-            background-color: #9123f3;
-          </textarea> <br>
+            background-color: #9123f3; <br>
           - three containers<br>
-          <textarea class="hw-textarea"
-            rows="5"
-            cols="50"
-            disabled>
+          First container style:
             min-width: 100px;
             min-height: 100px;
             max-height: 300px;
             max-width: 300px;
-            background-color: #ffb4de;
-          </textarea>
-          <textarea class="hw-textarea"
-            rows="5"
-            cols="50"
-            disabled>
+            background-color: #ffb4de;<br>
+            Second container style:
             min-width: 100px;
             min-height: 100px;
             max-height: 300px;
             max-width: 300px;
-            background-color: #ffd1b4;
-          </textarea>
-          <textarea class="hw-textarea"
-            rows="5"
-            cols="50"
-            disabled>
+            background-color: #ffd1b4;<br>
+            Third container style:
             min-width: 100px;
             min-height: 100px;
             max-height: 300px;
             max-width: 300px;
-            background-color: #ffff9a;
-          </textarea>
+            background-color: #ffff9a;<br>
           <img class="hw-border"
             src="task 02.png"
             width="800"
